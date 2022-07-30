@@ -7,8 +7,4 @@ After game is over a new states_to_learn csv file will show up with all the stat
 
 Here you can try the game:
 
-[<img alt="Play Button" src="<a href="https://www.freeiconspng.com/img/18906">Free Image Play Button Icon</a>](https://replit.com/@MarinaNenova/SwelteringCoordinatedGuiltware#main.py)
-
-
-
-
+<a href="https://replit.com/@MarinaNenova/SwelteringCoordinatedGuiltware#main.py" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Red_Diamond_Play_Button.png" height="40" /></a>
